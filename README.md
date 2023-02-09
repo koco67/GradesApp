@@ -3,6 +3,11 @@ Class name, Professor name, Grade and the Semester to which the class belongs to
 are the basic information used from the app.
 You can also edit or delete the class.
 
+Must use one framework like angular or react. -React for Frontend
+For Backend you can go with frameworks like spring Boot or you can go with express. - Express for Backend
+Backend Database either with mongoDB or PostgreSQL. - MongoDB
+
+
 how to run the app
 
 TERMINAL 1  
