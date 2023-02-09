@@ -13,4 +13,11 @@ yarn run devServer - to init the devServer
 connect to mongo compass
 and yarn start on client side
 
-:)
+some helpful links I found along the way :)
+https://reactjsexample.com/responsive-clothing-store-built-with-react/
+https://reactjsexample.com/crud-app-using-react-for-front-end-nodejs-
+express-for-the-backend-and-mongo-db-as-database/
+https://www.youtube.com/watch?v=xKs2IZZya7c
+https://www.youtube.com/watch?v=5PdEmeopJVQ
+https://www.youtube.com/watch?v=O_XL9oQ1_To
+https://www.youtube.com/watch?v=3CJuUcKqNA8
